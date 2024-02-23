@@ -1,0 +1,19 @@
+
+ 0. Az oldal utf-8, magyar, "Útvonal" című, "beige" háttérszínű!
+    A játékterület fehér hátterű, vékony fekete kerettel,
+    rajta 20 sorban és 20 oszlopban 32x32 méretű ikonok,
+    vékony (egyszeres!) szürke kerettel!
+    Az aktuális ikon háttere világosszürke legyen!
+    A játéktér alatt helyezzük el a két ikont,
+    a jobboldali előtt a nyilak számával (alapban nulla)!
+ 1. Ahová először kattintunk, ott jelenjen meg a plusz jel!
+ 2. A következő kattintás csak szomszédos (fent, lent, bal, jobb) lehet,
+    és egy megfelelő nyíl jelezze ez melyik irány volt!
+    Vagyis: a plusz jel HELYETT jelenjen meg az a nyíl,
+    amelyik ezt az irányt mutatja, a kattintás helyén pedig a plusz jel!
+ 3. A Play gomb megnyomásakor a kezdőkattintástól indulva,
+    és a nyilaknak megfelelően járja be a kapott útvonalat,
+    folyamatosan (negyed másodperc) törölve a már elhagyott helyeket.
+    A lejátszás alatt a gomb színe legyen sárga (playS.png)!
+    Frissüljön a darabszám!
+ 4. A Clear gomb bármikor megnyomható, és törli az útvonalat!
